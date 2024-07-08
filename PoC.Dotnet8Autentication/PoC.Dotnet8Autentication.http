@@ -1,0 +1,6 @@
+@PoC.Dotnet8Autentication_HostAddress = http://localhost:5208
+
+GET {{PoC.Dotnet8Autentication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
