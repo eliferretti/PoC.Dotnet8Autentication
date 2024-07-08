@@ -47,9 +47,4 @@ app.MapControllers();
 
 app.Run();
 
-//{
-//  "email": "eliferretti14@gmail.com",
-//  "password": "S3nh@S3cr3t@",
-//  "twoFactorCode": "string",
-//  "twoFactorRecoveryCode": "string"
-//}
+
